@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'blast_of_rice'
+}
+
+item {
+  id: 2
+  name: 'black_spot_of_rose'
+}
+
+item {
+  id: 3
+  name: 'grey_spot_of_mustard'
+}
+
+item {
+  id: 4
+  name: 'sigatoka_leaf_spot'
+}
